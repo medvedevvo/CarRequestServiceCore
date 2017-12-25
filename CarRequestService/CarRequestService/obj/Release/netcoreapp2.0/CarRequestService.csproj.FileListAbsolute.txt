@@ -1,0 +1,11 @@
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\bin\Release\netcoreapp2.0\CarRequestService.deps.json
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\bin\Release\netcoreapp2.0\CarRequestService.runtimeconfig.json
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\bin\Release\netcoreapp2.0\CarRequestService.runtimeconfig.dev.json
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\bin\Release\netcoreapp2.0\CarRequestService.dll
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\bin\Release\netcoreapp2.0\CarRequestService.pdb
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\obj\Release\netcoreapp2.0\CarRequestService.csprojResolveAssemblyReference.cache
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\obj\Release\netcoreapp2.0\CarRequestService.csproj.CoreCompileInputs.cache
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\obj\Release\netcoreapp2.0\CarRequestService.AssemblyInfoInputs.cache
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\obj\Release\netcoreapp2.0\CarRequestService.AssemblyInfo.cs
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\obj\Release\netcoreapp2.0\CarRequestService.dll
+C:\IU7\RSOI\CarCheckSystem\CarRequestService\CarRequestService\CarRequestService\obj\Release\netcoreapp2.0\CarRequestService.pdb
